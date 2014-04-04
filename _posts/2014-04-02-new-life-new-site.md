@@ -1,0 +1,26 @@
+---
+layout: post
+title: "new life new site"
+modified: 2014-04-02 04:14:34 -0400
+category: [blog]
+tags: [meta]
+image:
+  feature: 
+  credit: 
+  creditlink: 
+comments: 
+share: 
+link: https://www.youtube.com/watch?v=ZFnEhwmpjXI 
+external: true
+---
+
+
+> Complicating, circulating…new site, new site.  
+
+> Operating, generating…new site, new site.    
+
+Thanks for coming by, and for indulging my Depeche Mode reference.[^nl] It's decidedly in an early state of becoming, as I figure out how to use [Jekyll](jekyllrb.com) and this particular theme.  
+
+I'll probably be using this for more long-form writing and keep the shorter things over at my Tumblr site, [Not Evenly Distributed](http://not-evenly-distributed.tumblr.com). The Tumblarians over there are a good bunch, sociable, generous, witty, and insightful. Why not [check them out for yourself?](http://thelifeguardlibrarian.tumblr.com/tumblarians)   
+
+[^nl]: Clicking the title of this post should take you to YouTube, to help you know the song if you're not already humming along. 

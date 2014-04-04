@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">Ryan P. Randall</title>
+<generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="ryan-p-randall.github.io/feed.xml" />
+<link rel="alternate" type="text/html" href="ryan-p-randall.github.io" />
+<updated>2014-04-04T05:06:37-04:00</updated>
+<id>ryan-p-randall.github.io/</id>
+<author>
+  <name>Ryan P. Randall</name>
+  <uri>ryan-p-randall.github.io/</uri>
+  <email></email>
+</author>
+
+
+<entry>
+  <title type="html"><![CDATA[test one]]></title>
+  <link rel="alternate" type="text/html" href="ryan-p-randall.github.io/[%22blog%22]/test-one/" />
+  <id>ryan-p-randall.github.io/[%22blog%22]/test-one</id>
+  <updated>2014-04-04 08:14:49 UTCT00:00:00-00:00</updated>
+  <published>2014-04-04T00:00:00-04:00</published>
+  
+  <author>
+    <name>Ryan P. Randall</name>
+    <uri>ryan-p-randall.github.io</uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;Testing from the dark side of the moon.  &lt;/p&gt;
+
+&lt;p&gt;One, two…&lt;a href=&quot;https://www.youtube.com/watch?v=UnnGXa7WIGQ&quot;&gt;play the five tones&lt;/a&gt;.  &lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;ryan-p-randall.github.io/[%22blog%22]/test-one/&quot;&gt;test one&lt;/a&gt; was originally published by Ryan P. Randall at &lt;a href=&quot;ryan-p-randall.github.io&quot;&gt;Ryan P. Randall&lt;/a&gt; on April 04, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[new life new site]]></title>
+  <link rel="alternate" type="text/html" href="ryan-p-randall.github.io/[%22blog%22]/new-life-new-site/" />
+  <id>ryan-p-randall.github.io/[%22blog%22]/new-life-new-site</id>
+  <updated>2014-04-02 08:14:34 UTCT00:00:00-00:00</updated>
+  <published>2014-04-02T00:00:00-04:00</published>
+  
+  <author>
+    <name>Ryan P. Randall</name>
+    <uri>ryan-p-randall.github.io</uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;Complicating, circulating…new site, new site.  &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Operating, generating…new site, new site.    &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Thanks for coming by, and for indulging my Depeche Mode reference.&lt;sup id=&quot;fnref:nl&quot;&gt;&lt;a href=&quot;#fn:nl&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; It’s decidedly in an early state of becoming, as I figure out how to use &lt;a href=&quot;jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; and this particular theme.  &lt;/p&gt;
+
+&lt;p&gt;I’ll probably be using this for more long-form writing and keep the shorter things over at my Tumblr site, &lt;a href=&quot;http://not-evenly-distributed.tumblr.com&quot;&gt;Not Evenly Distributed&lt;/a&gt;. The Tumblarians over there are a good bunch, sociable, generous, witty, and insightful. Why not &lt;a href=&quot;http://thelifeguardlibrarian.tumblr.com/tumblarians&quot;&gt;check them out for yourself?&lt;/a&gt;   &lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:nl&quot;&gt;
+      &lt;p&gt;Clicking the title of this post should take you to YouTube, to help you know the song if you’re not already humming along.  &lt;a href=&quot;#fnref:nl&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+
+  &lt;p&gt;&lt;a href=&quot;ryan-p-randall.github.io/[%22blog%22]/new-life-new-site/&quot;&gt;new life new site&lt;/a&gt; was originally published by Ryan P. Randall at &lt;a href=&quot;ryan-p-randall.github.io&quot;&gt;Ryan P. Randall&lt;/a&gt; on April 02, 2014.&lt;/p&gt;</content>
+</entry>
+
+</feed>
