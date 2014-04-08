@@ -35,13 +35,13 @@ links:
   - title: Info Fluxus Blog
     url: /posts/
   - title: CV
-    url: /CV/
+    url: /cv/
   - title: Projects and Papers
-    url: /Projects-and-Papers/
+    url: /projects-and-papers/
   - title: Links
-    url: /Links/
+    url: /links/
   - title: Colophon
-    url: /Colophon/
+    url: /colophon/
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
