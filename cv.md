@@ -5,9 +5,9 @@ title: "CV"
 modified: 2014-04-04 04:13
 tags: []
 image:
-  feature: 
-  credit: 
-  creditlink: 
+  feature: laluttecontinue-crop.jpg
+  credit: Mai '68
+  creditlink: http://jeanpaulachard.com/mai/
 share: 
 ---
 
