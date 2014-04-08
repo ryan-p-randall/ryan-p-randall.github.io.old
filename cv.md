@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /cv/
-title: "cv"
+title: "CV"
 modified: 2014-04-04 04:13
 tags: []
 image:

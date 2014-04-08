@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /colophon/
-title: "colophon"
+title: "Colophon"
 modified: 2014-04-04 04:13
 tags: [how to]
 image:
