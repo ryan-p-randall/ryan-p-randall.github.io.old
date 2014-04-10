@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/
-title: About
+title: About Me
 tagline: Ryan P. Randall
 tags: [about]
 modified: 9-9-2013
