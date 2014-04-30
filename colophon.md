@@ -3,10 +3,10 @@ layout: page
 permalink: /colophon/
 title: "Colophon"
 modified: 2014-04-04 04:13
-tags: [how to]
+tags: [how-to]
 image:
   feature: laluttecontinue-crop.jpg
-  credit: Mai '68
+  credit: Atelier Populaire, Ex-Ecole des Beaux-Arts
   creditlink: http://jeanpaulachard.com/mai/
 share: 
 ---

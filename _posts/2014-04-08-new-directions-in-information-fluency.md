@@ -2,12 +2,8 @@
 layout: post
 title: "New Directions in Information Fluency"
 modified: 2014-04-08 02:36:07 -0400
-category: [presentations, blog]
-tags: [presentations, blog]
+tags: [lib-conf, presentations]
 image:
-  feature: laluttecontinue-crop.jpg
-  credit: Mai '68
-  creditlink: http://jeanpaulachard.com/mai/
 comments: 
 share: 
 ---

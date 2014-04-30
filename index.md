@@ -8,3 +8,5 @@ image:
   creditlink: http://jeanpaulachard.com/mai/
 ---
 
+[![Analytics](https://ga-beacon.appspot.com/UA-49717180-1/ryan-o-randall.github.io/?pixel)]((https://github.com/ryan-p-randall/ga-beacon)
+)
