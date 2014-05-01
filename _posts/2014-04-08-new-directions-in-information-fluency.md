@@ -4,6 +4,9 @@ title: "New Directions in Information Fluency"
 modified: 2014-04-08 02:36:07 -0400
 tags: [lib-conf, presentations]
 image:
+  feature: laluttecontinue-crop.jpg
+  credit: Atelier Populaire, Ex-Ecole des Beaux-Arts
+  creditlink: http://jeanpaulachard.com/mai/
 comments: 
 share: 
 ---
